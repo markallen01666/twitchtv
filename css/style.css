@@ -1,0 +1,34 @@
+.bg {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #96281B;
+}
+
+.topOffset {
+  margin-top: 5%;
+}
+
+.content {
+  color: #000000;
+  font-family: Raleway, Serif;
+  overflow-wrap: break-word;
+}
+
+.logo {
+  width: 5vw;
+}
+
+h1 {
+  font-size: 3vw;
+}
+
+h2 {
+  font-size: 1.5vw;
+}
+
+a {
+  text-decoration: none !important;
+  color: #000000;
+}
